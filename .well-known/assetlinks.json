@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zowfity.zowfity",
+      "sha256_cert_fingerprints": [
+        "CF:11:8C:B8:E2:61:8D:9B:B0:B0:44:62:A5:33:F7:B2:95:4A:2B:BB:31:BC:2A:F2:62:B9:3E:B0:5C:40:77:C6"
+      ]
+    }
+  }
+]
